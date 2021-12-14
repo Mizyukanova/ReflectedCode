@@ -1,4 +1,5 @@
 ﻿  ReflectedCode.cpp
-c:\users\анна\source\repos\reflectedcode\reflectedcode\reflectedcode.cpp(26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-c:\users\анна\source\repos\reflectedcode\reflectedcode\reflectedcode.cpp(28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  ReflectedCode.vcxproj -> C:\Users\Анна\source\repos\ReflectedCode\Debug\ReflectedCode.exe
+d:\аня\кирьянов\reflectedcode\reflectedcode\reflectedcode.cpp(22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\аня\кирьянов\reflectedcode\reflectedcode\reflectedcode.cpp(34): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\аня\кирьянов\reflectedcode\reflectedcode\reflectedcode.cpp(36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ReflectedCode.vcxproj -> D:\Аня\Кирьянов\ReflectedCode\Debug\ReflectedCode.exe
